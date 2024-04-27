@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">My name is Pamela, I'm currently studying Systems Analysis and Development with a focus on Java, I'm still a beginner in programming. I'm creating this GitHub in order to register my progress and learn, mainly.</p>
+<p align="left">My name is Pamela, I'm currently studying Systems Analysis and Development with a focus on Data Analysis, I'm still a beginner in programming. I'm creating this GitHub in order to register my progress and learn, mainly.</p>
 
 ###
 
